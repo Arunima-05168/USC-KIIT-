@@ -1,7 +1,7 @@
 """
 Medical Q&A Assistant (Streamlit single-file app) — Advanced
 Created for: Context-grounded medical question-answer assistant with improved advice, remedies, follow-ups and triage
-Author: ChatGPT (generated for user)
+Author: ARUNIMA DUTTA 
 
 Features added in this version:
 - Larger disease knowledge base and richer advice + home remedies + OTC suggestions (non-prescription only)
@@ -477,4 +477,5 @@ if st.sidebar.checkbox('Show developer notes'):
 
 # Footer
 st.markdown('---')
+
 st.caption('Educational demo only — not a medical device. Always consult a healthcare professional for diagnosis and treatment. Made By Arunima Dutta ')
